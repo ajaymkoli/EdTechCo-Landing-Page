@@ -2,8 +2,6 @@
 
 An educational technology and coding services website built with HTML and CSS, featuring a responsive design with Bootstrap. This project serves as a capstone to demonstrate proficiency in front-end web development by creating a modern, engaging, and mobile-friendly user experience.
 
-![Hero Section](assets/Output/hero-section.png)
-
 ---
 
 ## Features
@@ -21,8 +19,6 @@ This project includes several key sections to provide a comprehensive overview o
 * **Aesthetics and Design:** The design uses a modern color palette with a vibrant primary color (`#ff511a`) and a secondary accent color (`#43ba7f`) to highlight key information. The layout is clean and easy to navigate.
 * **Custom Scrollbar:** The website features a custom-styled scrollbar for a polished look.
 
-![Services Section](assets/Output/services-section.png)
-
 ---
 
 ## Technologies Used
@@ -32,9 +28,6 @@ This project includes several key sections to provide a comprehensive overview o
 * **Bootstrap 5.3:** Used for the responsive grid system, navigation, and the testimonial carousel.
 * **Font Awesome:** For scalable vector icons used throughout the site.
 * **Google Fonts:** The "Poppins" font is used to provide a modern, clean typography.
-
-![About Us Section](assets/Output/about-section.png)
-![Interest Form](assets/Output/form-section.png)
 
 ---
 
@@ -46,9 +39,6 @@ To run this project locally, simply:
 2.  Open the `index.html` file in your preferred web browser.
 
 The project is self-contained and does not require any additional setup or a server to run.
-
-![Testimonials](assets/Output/testimonials-section.png)
-![Contact us Section](assets/Output/contact-setion.png)
 
 ---
 
@@ -67,3 +57,26 @@ The project is self-contained and does not require any additional setup or a ser
 │   │   └── testimonials-03.jpg
 ├── index.html
 └── index.css
+```
+
+
+
+## OUTPUT SCREENSHOTS
+
+### Hero Section
+![Hero Section](assets/Output/hero-section.png)
+
+### Services Section
+![Services Section](assets/Output/services-section.png)
+
+### About Section
+![About Us Section](assets/Output/about-section.png)
+
+### Interest Form
+![Interest Form](assets/Output/form-section.png)
+
+### Testimonials Section
+![Testimonials](assets/Output/testimonials-section.png)
+
+### Contact us Section
+![Contact us Section](assets/Output/contact-section.png)
