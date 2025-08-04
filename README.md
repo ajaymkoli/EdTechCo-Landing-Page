@@ -2,7 +2,7 @@
 
 An educational technology and coding services website built with HTML and CSS, featuring a responsive design with Bootstrap. This project serves as a capstone to demonstrate proficiency in front-end web development by creating a modern, engaging, and mobile-friendly user experience.
 
-![Hero Section](assets/output/hero-section.png)
+![Hero Section](assets/Output/hero-section.png)
 
 ---
 
@@ -21,7 +21,7 @@ This project includes several key sections to provide a comprehensive overview o
 * **Aesthetics and Design:** The design uses a modern color palette with a vibrant primary color (`#ff511a`) and a secondary accent color (`#43ba7f`) to highlight key information. The layout is clean and easy to navigate.
 * **Custom Scrollbar:** The website features a custom-styled scrollbar for a polished look.
 
-![Services Section](assets/output/services-section.png)
+![Services Section](assets/Output/services-section.png)
 
 ---
 
@@ -33,8 +33,8 @@ This project includes several key sections to provide a comprehensive overview o
 * **Font Awesome:** For scalable vector icons used throughout the site.
 * **Google Fonts:** The "Poppins" font is used to provide a modern, clean typography.
 
-![About Us Section](assets/output/about-section.png)
-![Interest Form](assets/output/form-section.png)
+![About Us Section](assets/Output/about-section.png)
+![Interest Form](assets/Output/form-section.png)
 
 ---
 
@@ -47,8 +47,8 @@ To run this project locally, simply:
 
 The project is self-contained and does not require any additional setup or a server to run.
 
-![Testimonials](assets/images/testimonials-section.png)
-![Contact us Section](assets/output/contact-setion.png)
+![Testimonials](assets/Output/testimonials-section.png)
+![Contact us Section](assets/Output/contact-setion.png)
 
 ---
 
